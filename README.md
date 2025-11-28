@@ -39,7 +39,7 @@ Three players control the flow of technology into Brazil:
 
 ![Market Share](img/grafico_pizza_share_chips.png)
 
-### 📉 2. Top 10 Suppliers & Geopolitical Blocs
+### 📉 2. Top 10 Suppliers & Regional Blocs
 *Comparison of trade volume, highlighting the disparity between Asian and Western suppliers.*
 
 ![Top 10 Suppliers](img/analise_dependencia_chips.png)
