@@ -32,25 +32,27 @@ Three players control the flow of technology into Brazil:
 
 ---
 
-## 📊 Visual Intelligence
+## 📊 Data Visualization
 
 ### 🌍 1. The Dependency Map (Origin Share)
 *Visualizing the dominance of the Asian Block in the Brazilian supply chain.*
 
 ![Market Share](img/grafico_pizza_share_chips.png)
-*(Note: Upload the image 'grafico_pizza_share_chips.png' to an 'img' folder)*
 
-### 📉 2. Top 10 Suppliers & Regional Blocs
+### 📉 2. Top 10 Suppliers & Geopolitical Blocs
 *Comparison of trade volume, highlighting the disparity between Asian and Western suppliers.*
 
 ![Top 10 Suppliers](img/analise_dependencia_chips.png)
-*(Note: Upload the image 'analise_dependencia_chips.png' to an 'img' folder)*
 
 ### 💎 3. Value vs. Volume (Tech Density)
-*Scatter plot analyzing the "Price per Kg". High value/low weight indicates advanced processors (Taiwan/US), while low value/high weight indicates commodities.*
+*Scatter plot analyzing the "Price per Kg". High value/low weight indicates advanced processors (Taiwan), while low value/high weight indicates commodities (China).*
 
 ![Scatter Plot](img/scatter_preco_volume_tech.png)
-*(Note: Upload the image 'scatter_preco_volume_tech.png' to an 'img' folder)*
+
+### ⚖️ 4. Financial Impact
+*The Trade Balance deficit highlights the lack of technological sovereignty.*
+
+![Trade Balance](img/balanca_comercial_semicondutores.png)
 
 ---
 
