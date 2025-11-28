@@ -54,6 +54,14 @@ Three players control the flow of technology into Brazil:
 
 ![Trade Balance](img/balanca_comercial_semicondutores.png)
 
+
+## 🧠 Strategic Recommendation
+Based on this data, companies operating in Brazil should:
+
+* **Diversify Origins:** Actively seek suppliers in the "Western Block" (USA, Europe) to mitigate geopolitical risk, despite potentially higher costs.
+* **Inventory Buffers:** Increase safety stock for items originating from Taiwan and South Korea (High-End chips).
+* **Governance:** Monitor the "Price per Kg" metric to identify shifts in technology density and pricing power.
+
 ---
 
 ## 🛠 Methodology & Tech Stack
